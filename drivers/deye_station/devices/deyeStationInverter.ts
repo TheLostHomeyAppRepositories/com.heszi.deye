@@ -141,7 +141,6 @@ export default class DeyeStationInverter extends DeyeStationDevice {
       this.log('Get latest error: ', err);
       this.log('Data center: ', this.dataCenter);
       this.log('Latest Data source: ', this.latestDataSource);
-      this.log('Debug access: ', this.token.accessToken);
       this.log('Debug station data: ', JSON.stringify(this.station));
   
       if (++this.apiError < 61) {
