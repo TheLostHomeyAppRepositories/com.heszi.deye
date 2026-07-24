@@ -82,5 +82,8 @@
   },
   "1.4.6": {
     "en": "Add inverter temperature"
+  },
+  "1.4.7": {
+    "en": "Change logging for error handling"
   }
 }
