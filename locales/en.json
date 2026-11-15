@@ -31,7 +31,7 @@
         },
         "solarpanel": {
             "measure_power": "Power from panels",
-            "meter_power": "Daly production"
+            "meter_power": "Daily production"
         },
         "battery": {
             "measure_power": "Charging power",
